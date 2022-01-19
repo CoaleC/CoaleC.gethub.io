@@ -1,12 +1,12 @@
-# Hello World! 
+# Hello WIll! 
 
-## Something else
+## You smell!
 
+1. Get
 1. Rick
-1. Roll
-1. AWESOME
+1. Rolled
 
 run `python3 managae.py runserver`
 
 ```
-//c code
+fancy looking stuff
