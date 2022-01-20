@@ -4,7 +4,7 @@
 
 I might write something here if I remember to like a cool little factoid or quip in which to please your mind
 
-<img source = "https://images.app.goo.gl/MatxCQCNjnEXPdwz6" >
+<img src="https://images.app.goo.gl/MatxCQCNjnEXPdwz6" alt="sus" >
 
 run `python3 managae.py runserver`
 
