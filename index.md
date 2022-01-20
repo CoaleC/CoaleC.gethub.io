@@ -1,6 +1,6 @@
 # Greetings Earthling! 
 
-## !
+## Bottom Text
 
 I might write something here if I remember to like a cool little factoid or quip in which to please your mind
 
